@@ -14,4 +14,9 @@ Bu layihə şirkətin kadr potensialını, maaş bölgüsünü və işçi demoqr
 - **Dinamik Filtrlər:** Departamentlər üzrə hesabatın anlıq dəyişdirilməsi imkanı.
 
 ## 📸 Dashboard Görüntüsü
-![HR Analytics Dashboard](Screenshot 2026-02-18 174118.png
+![HR Analytics Dashboard]
+<p align="center">
+  <img src="Screenshot 2026-02-18 174118.png" width="45%" />
+  <img src="Screenshot 2026-02-18 174605.png" width="45%" />
+  <img src="Screenshot 2026-02-18 174723.png" width="45%" />
+</p>
